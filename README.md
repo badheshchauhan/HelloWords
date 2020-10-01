@@ -1,7 +1,5 @@
 # HelloWords 单词记忆APP功能展示及使用手册
-    
-    
-    
+       
 HelloWords是一个基于Django开发的在线背单词网站，我们都知道，几乎每一门编程语言的第一个程序都是向世界问好——hello，world！英语也不例外，要想学好英语，积累词汇量，那就从HelloWords开始吧！
 
 ## HelloWords功能概述
